@@ -1,0 +1,14 @@
+header{
+  display: flex;
+  height: 100PX;
+  align-items: center;
+  justify-content: center;
+}
+input{
+  width: 200px;
+  height: 30px;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid rgb(200, 197, 197);
+  padding: 0 10px;
+}
